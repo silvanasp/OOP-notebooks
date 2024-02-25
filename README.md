@@ -1,1 +1,1 @@
-## Jupyter notebook to practice basic NumPy commands
+## Jupyter notebooks for week 4
